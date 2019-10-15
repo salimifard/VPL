@@ -1,0 +1,12 @@
+VPL stands for Volleyball Premier League algorithm which is a population based, human-inspired, meta-heuristic algorithm 
+intelligently tailored to solve global optimization problems.
+the details of the algorithm is published in Applied Soft Computing journal (https://www.sciencedirect.com/science/article/pii/S1568494617307068).
+
+The proposed algorithm is benchmarked on 23 well-known test functions, which are categorized into three groups, namely unimodal, 
+multimodal and fixed-dimension multimodal functions. The solutions obtained using the VPL have been compared with other 
+metaheuristic algorithms including Particle Swarm Optimization (PSO), Differential Evolution (DE), Genetic Algorithm (GA), 
+Artificial Bee Colony (ABC), Firefly Algorithm (FA), Harmony Search (HS), Sin Cosine Algorithm (SCA), Soccer League Competition (SLC), 
+and League Championship Algorithm (LCA). In addition, VPL has been used to solve three classical engineering design optimization problems. 
+Results show that VPL algorithm possesses a strong capability to produce superior performance over the other well-known 
+metaheuristic algorithms. The results of the experiments also show that the VPL is effectively applicable to solve problems with 
+complex search space.
